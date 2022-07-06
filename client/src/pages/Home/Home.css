@@ -1,0 +1,58 @@
+.Home {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Home .Post {
+    width: 600px;
+    height: 150px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: 20px;
+}
+
+.Home .Post .Content{
+    padding: 5px;
+    flex: 30%;
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.Home .Post .Content .title {
+    background-color:lightblue;
+    flex: 30%;
+    text-align: left;
+    font-size: 20px;
+}
+
+.Home .Post .Content .description {
+    flex: 50%;
+    text-align: left;
+
+}
+
+.Home .Post .Engagement {
+    padding: 10px;
+    flex: 20%;
+    display: grid;
+    place-items: right normal;
+}
+.Home .Post .Engagement #likeButton {
+    font-size: 30px;
+     color: grey;
+
+}
+.Home .Post .Engagement #likeButton:hover{
+    cursor: pointer;
+}
+.Home .Post .Engagement #likeButton:active{
+    color: black;
+}
