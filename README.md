@@ -9,7 +9,7 @@ Also on Ubuntu start server (in the 'server' repo of the project) with command '
 ### Log in
 ![image](https://user-images.githubusercontent.com/68514848/180304510-9a30163b-7f8e-4209-847e-4b1fad2873e5.png)
 ### Error message if the login or password are wrong
-![image](https://user-images.githubusercontent.com/68514848/180304923-4517f510-3de8-4afe-ac81-f01680408d49.png)
+![image](https://user-images.githubusercontent.com/68514848/180489394-262bbaa9-7637-4a88-a0ff-75a920bf9fbc.png)
 ### Create a post
 ![image](https://user-images.githubusercontent.com/68514848/180304653-23803d63-3af4-4f25-b40e-10f8f7680fd2.png)
 ### Home page with all user's posts
